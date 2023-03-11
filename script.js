@@ -46,7 +46,7 @@ if(scoreHuman === 10){
 }
 if(scoreComp === 10){
   window.location.reload(true)
-  alert("переміг комп'ютер")
+  alert("Переміг комп'ютер")
 }
 }
                      )
