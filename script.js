@@ -77,11 +77,11 @@ paperImg.addEventListener("click",
   // Победа
 if(scoreHuman === 10){
   window.location.reload(true)
-  alert("Вы победили")
+  alert("Ви перемогли")
 }
 if(scoreComp === 10){
   window.location.reload(true)
-  alert("Победил компьютер")
+  alert("Переміг комп'ютер")
 }
 }
                      )
@@ -112,11 +112,11 @@ scissorsImg.addEventListener("click",
   // Победа
 if(scoreHuman === 10){
   window.location.reload(true)
-  alert("Вы победили")
+  alert("Ви перемогли")
 }
 if(scoreComp === 10){
   window.location.reload(true)
-  alert("Победил компьютер")
+  alert("Переміг комп'ютер")
 }
 }
                      )
